@@ -10,6 +10,7 @@ Depois de rodar o projeto acesse o navegador no endereco:
 http://127.0.0.1:8050/
 ### Estrutura 
 visualizacao_projeto.py:Script com Dashboard dos graficos seguintes (pizza, histograma, barra,e dispersao)
+
 mapa_de_calor.py:Script de geracao Mapa de calor e regressao
 
 Feito com python e carinho por Hiba .
