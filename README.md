@@ -8,6 +8,8 @@ pip install dash pandas plotly
 ```
 Depois de rodar o projeto acesse o navegador no endereco:
 http://127.0.0.1:8050/
+
+http://127.0.0.1:8051/
 ### Estrutura 
 visualizacao_projeto.py:Script com Dashboard dos graficos seguintes (pizza, histograma, barra,e dispersao)
 
